@@ -11,7 +11,7 @@
 		      <value>Hello</value>
 		    </description>
 		    <url>
-		      <value>javascript:alert(0)</value>
+		      <value>javascript:alert(9)</value>
 		    </url>
 		</info>
 	</body>
